@@ -1,0 +1,13 @@
+pandas
+numpy
+xgboost
+lightgbm
+scikit-learn
+optuna
+mlflow
+fastapi
+joblib
+seaborn
+matplotlib
+plotly
+python-dotenv
